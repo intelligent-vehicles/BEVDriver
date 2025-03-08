@@ -1,3 +1,10 @@
+# BEVDriver
 
+## Scientific Paper
+For a detailed explanation, please refer to our scientific paper:  
+📄 **[Paper Title]** – [Read it here](https://arxiv.org/abs/2503.03074)
+
+## Demo Video
+A quick demonstration of the project in action:
 
 <video src="https://private-user-images.githubusercontent.com/144470111/420038453-b9e5b19b-e2e5-45e6-b86a-64290599b4c8.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEyODUxMjUsIm5iZiI6MTc0MTI4NDgyNSwicGF0aCI6Ii8xNDQ0NzAxMTEvNDIwMDM4NDUzLWI5ZTViMTliLWUyZTUtNDVlNi1iODZhLTY0MjkwNTk5YjRjOC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNlQxODEzNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMDVkNjVlMDlhNWIyNzAwMDM4NjIyNThlNWQ5M2MyYmFhNjA3NGZlYzFlZjRkYjIxMmU2MmNjNjg2MjljZWQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.t6nuFFpM384vckjBfWVlxLC_WEI0_yVVIYo1eMU3MEg" controls width="600"></video>
