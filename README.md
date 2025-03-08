@@ -2,7 +2,7 @@
 
 ## Scientific Paper
 For a detailed explanation, please refer to our scientific paper:  
-📄 **[Paper Title]** – [Read it here](https://arxiv.org/abs/2503.03074)
+📄 **[BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving]** – [Read it here](https://arxiv.org/abs/2503.03074)
 
 ## Demo Video
 A quick demonstration of the project in action:
