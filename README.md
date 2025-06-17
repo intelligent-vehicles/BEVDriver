@@ -3,6 +3,7 @@
 ## News
 
 🎉 Our paper *"BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving"* has been **accepted to IROS 2025**! [Read it here](https://arxiv.org/abs/2503.03074)
+
 🛠️ We have also **released the full codebase** — feel free to explore, reproduce, and build upon our work.
 
 ---
