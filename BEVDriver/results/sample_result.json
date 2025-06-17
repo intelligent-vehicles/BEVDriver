@@ -1,0 +1,725 @@
+{
+    "_checkpoint": {
+        "global_record": {
+            "index": -1,
+            "infractions": {
+                "collisions_layout": 0.0,
+                "collisions_pedestrian": 0.0,
+                "collisions_vehicle": 0.0,
+                "outside_route_lanes": 0.0,
+                "red_light": 0.0,
+                "route_dev": 0.0,
+                "route_timeout": 0.0,
+                "stop_infraction": 0.0,
+                "vehicle_blocked": 0.0
+            },
+            "meta": {
+                "exceptions": [
+                    [
+                        "RouteScenario_3",
+                        0,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_6",
+                        1,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_8",
+                        2,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_9",
+                        3,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_17",
+                        4,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_18",
+                        5,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_19",
+                        6,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_23",
+                        7,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_28",
+                        8,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_29",
+                        9,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_31",
+                        10,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_32",
+                        11,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_36",
+                        12,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_37",
+                        13,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_42",
+                        14,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_43",
+                        15,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_49",
+                        16,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_51",
+                        17,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_52",
+                        18,
+                        "Failed - Agent couldn't be set up"
+                    ],
+                    [
+                        "RouteScenario_59",
+                        19,
+                        "Failed - Agent couldn't be set up"
+                    ]
+                ]
+            },
+            "route_id": -1,
+            "scores": {
+                "score_composed": 0.0,
+                "score_penalty": 0.625,
+                "score_route": 0.0
+            },
+            "status": "Failed"
+        },
+        "progress": [
+            21,
+            32
+        ],
+        "records": [
+            {
+                "index": 0,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 360.60064596583584
+                },
+                "route_id": "RouteScenario_3",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 1,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 369.9340334984632
+                },
+                "route_id": "RouteScenario_6",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 2,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 398.89981515165755
+                },
+                "route_id": "RouteScenario_8",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 3,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 226.92448982964348
+                },
+                "route_id": "RouteScenario_9",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 4,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 234.61000955552518
+                },
+                "route_id": "RouteScenario_17",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 5,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 436.6853368083663
+                },
+                "route_id": "RouteScenario_18",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 6,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 366.21402885485566
+                },
+                "route_id": "RouteScenario_19",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 7,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 448.48719517042684
+                },
+                "route_id": "RouteScenario_23",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 8,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 209.620291775818
+                },
+                "route_id": "RouteScenario_28",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 9,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 253.47384011549482
+                },
+                "route_id": "RouteScenario_29",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 10,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 393.6714458160085
+                },
+                "route_id": "RouteScenario_31",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 11,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 221.61244346673882
+                },
+                "route_id": "RouteScenario_32",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 12,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 214.39391118763257
+                },
+                "route_id": "RouteScenario_36",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 13,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 207.28042899226332
+                },
+                "route_id": "RouteScenario_37",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 14,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 774.1446646306324
+                },
+                "route_id": "RouteScenario_42",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 15,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 543.2031722927486
+                },
+                "route_id": "RouteScenario_43",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 16,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 177.67248573642078
+                },
+                "route_id": "RouteScenario_49",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 17,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 138.4243548747692
+                },
+                "route_id": "RouteScenario_51",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 18,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 400.61654480465745
+                },
+                "route_id": "RouteScenario_52",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 19,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 0.0,
+                    "duration_system": 0.0,
+                    "route_length": 191.32869310301794
+                },
+                "route_id": "RouteScenario_59",
+                "scores": {
+                    "score_composed": 0.0,
+                    "score_penalty": 1.0,
+                    "score_route": 0.0
+                },
+                "status": "Failed - Agent couldn't be set up"
+            },
+            {
+                "index": 20,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [
+                        "Agent collided against object with type=vehicle.audi.etron and id=294 at (x=449.364, y=147.305, z=0.033), at time=34.950000520795584"
+                    ],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [
+                        "Agent deviated from the route at (x=512.893, y=145.563, z=0.034)"
+                    ],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 51.60000076889992,
+                    "duration_system": 285.51609086990356,
+                    "route_length": 266.88520984199675
+                },
+                "route_id": "RouteScenario_62",
+                "scores": {
+                    "score_composed": 19.15201580705903,
+                    "score_penalty": 0.6,
+                    "score_route": 31.920026345098385
+                },
+                "status": "Failed - Agent deviated from the route"
+            }
+        ]
+    },
+    "eligible": false,
+    "entry_status": "Started",
+    "labels": [
+        "Avg. driving score",
+        "Avg. route completion",
+        "Avg. infraction penalty",
+        "Collisions with pedestrians",
+        "Collisions with vehicles",
+        "Collisions with layout",
+        "Red lights infractions",
+        "Stop sign infractions",
+        "Off-road infractions",
+        "Route deviations",
+        "Route timeouts",
+        "Agent blocked"
+    ],
+    "sensors": [
+        "carla_camera",
+        "carla_camera",
+        "carla_camera",
+        "carla_camera",
+        "carla_lidar",
+        "carla_imu",
+        "carla_gnss",
+        "carla_speedometer"
+    ],
+    "values": [
+        "0.000",
+        "0.000",
+        "0.625",
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+    ]
+}
