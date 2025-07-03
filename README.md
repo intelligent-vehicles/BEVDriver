@@ -175,6 +175,18 @@ export SCENARIOS=leaderboard/data/LangAuto/tiny.json
 export ROUTES=leaderboard/data/LangAuto/tiny.xml
 ``` 
 
+## Citation
+
+If you use this work in your research, please cite us using the following BibTeX entry:
+
+```
+@article{winter2025bevdriver,
+  title={BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving},
+  author={Winter, Katharina and Azer, Mark and Flohr, Fabian B},
+  journal={arXiv preprint arXiv:2503.03074},
+  year={2025}
+}
+```
 
 ## Acknowledgements
 
